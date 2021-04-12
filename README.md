@@ -5,7 +5,7 @@ This is a virtual version of the Computer Science / Computer Engineering buildin
 It's *under construction* in Minecraft 1.16.5.
 
 - Q: Can I make a pull request?
-- A: I don't realize how I can merge blocks in Minecraft.
+- A: I don't realize how I can merge blocks in Minecraft! 🤷🏽‍♂️
 
 ## Screenshots
 
