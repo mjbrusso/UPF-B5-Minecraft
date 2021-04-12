@@ -7,3 +7,12 @@ It's *under construction* In Minecraft.
 ## Screenshots
 
 ![Front/Left view](https://github.com/mjbrusso/UPF-B5-Minecraft/blob/main/_imgs/p01.png)
+
+
+![Inside](https://github.com/mjbrusso/UPF-B5-Minecraft/blob/main/_imgs/p02.png)
+
+
+![Inside](https://github.com/mjbrusso/UPF-B5-Minecraft/blob/main/_imgs/p03.png)
+
+
+![Inside](https://github.com/mjbrusso/UPF-B5-Minecraft/blob/main/_imgs/p04.png)
