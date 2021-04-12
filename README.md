@@ -2,7 +2,7 @@
 
 This is a virtual version of the Computer Science / Computer Engineering building at the University of Passo Fundo (UPF / Iceg / B5).
 
-It's *under construction* In Minecraft.
+It's *under construction* in Minecraft 1.16.5.
 
 ## Screenshots
 
