@@ -10,13 +10,13 @@ It's *under construction* in Minecraft 1.16.5.
 
 ## Screenshots
 
-![Front/Left view](https://github.com/mjbrusso/UPF-B5-Minecraft/blob/main/_img/front.png)
+![Front/Left view](https://github.com/mjbrusso/UPF-B5-Minecraft/blob/main/_imgs/p01.png)
 
 
-![Inside](https://github.com/mjbrusso/UPF-B5-Minecraft/blob/main/_img/inside1.png)
+![Inside](https://github.com/mjbrusso/UPF-B5-Minecraft/blob/main/_imgs/p02.png)
 
 
-![Inside](https://github.com/mjbrusso/UPF-B5-Minecraft/blob/main/_img/inside2.png)
+![Inside](https://github.com/mjbrusso/UPF-B5-Minecraft/blob/main/_imgs/p03.png)
 
 
-![Inside](https://github.com/mjbrusso/UPF-B5-Minecraft/blob/main/_img/inside3.png)
+![Inside](https://github.com/mjbrusso/UPF-B5-Minecraft/blob/main/_imgs/p04.png)
